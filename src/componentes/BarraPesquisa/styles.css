@@ -1,0 +1,36 @@
+.container-busca {
+  display: flex;
+  gap: 2em;
+  width: 100%;
+}
+
+.container-busca button,
+input {
+  font-size: 20px;
+  font-family: var(--fonte-prompt);
+  color: var(--cor-universo);
+}
+
+.container-busca input {
+  flex-grow: 2;
+  width: 75%;
+  height: 2.5em;
+  padding: 1em;
+
+  border-radius: 8px;
+  border-width: 0.1em;
+  border-style: solid;
+  border-color: var(--laranja-primario);
+}
+
+/* .container-busca button {
+  flex-grow: 1;
+  background-color: var(--laranja-primario);
+  border: none;
+  border-radius: 8px;
+  width: 25%;
+  height: 2.5em;
+
+  font-size: 20px;
+  font-family: var(--fonte-prompt);
+} */

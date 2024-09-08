@@ -1,0 +1,76 @@
+.dados-obra-container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+}
+
+.dados-obra-container__dados-semanticos {
+  width: inherit;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  width: 100%;
+}
+
+.dados-obra-container__dados-semanticos button {
+  color: var(--cor-espacial);
+  background-color: var(--laranja-primario);
+  border-radius: 8px;
+  height: 2em;
+  width: 50%;
+  font-weight: 600;
+
+  border: none;
+}
+
+.dados-obra-container__dados-numericos {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  width: 100%;
+}
+
+.dados-numericos__informacoes {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  width: 100%;
+  color: #888;
+  padding-left: 1em;
+}
+
+.dados-numericos__controle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  width: 100%;
+}
+
+.dados-numericos__controle button {
+  color: var(--cor-espacial);
+  background-color: var(--laranja-primario);
+  border-radius: 8px;
+  height: 2em;
+  width: 50%;
+
+  font-weight: 600;
+  border: none;
+}
+
+/* .dados-numericos__botao {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+.dados-numericos__botao img {
+  width: 50%;
+  border-radius: 8px;
+  background-color: var(--laranja-primario);
+} */
