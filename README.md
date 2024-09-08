@@ -1,8 +1,7 @@
-# React + Vite
+Progeto desenvolvido durante a imersão Gemini
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A iniciativa do projeto é uma plataforma onde o usuário pode selecionar as obras que deseja acompanhar seu consumo.
 
-Currently, two official plugins are available:
+Esse tipo de plataforma é simples e útil para pessoas que mudam de plataforma com frequência e desejam registrar seu histórico sem depender de várias plataformas ao mesmo tempo e não gerar uma dependência.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Durante o processo de desenvolvimento utilizei as aulas da imersão, conhecimento básico e prevido de React e o Google Gemini que amigavelmente apelidei de Gu para melhorar nossa conversa.
